@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDataSource>
+	<Sites>
+		<Site name="dangcongsan_news-and-events" uuid="ba454892-d700-4c33-9b4c-f1a89c1e0d2b"
+			nation="vietnam" lingual="ENG">
+			<Link>
+				 <Url>http://en.dangcongsan.vn/news-and-events.html</Url>
+				
+				
+				<Linktype
+					class="edu.nju.opsource.dangcongsan.linktype.NewsList">
+					dangcongsan.newslist
+				</Linktype>
+			</Link>
+			<describe>
+				news-and-events of en.dangcongsan.vn
+				<br />
+				The Communist Party of Vietnam (CPV) Online Newspaper is an agency of the Party Central Committee Commission of Popularization and Education, raising the voices of the Party, State and people on the Internet, and being an electronic information database of the CPV Central Committee (CPVCC).
+			</describe>
+		</Site>
+		<Site name="dangcongsan_economics" uuid="61eb612f-949f-40fa-9435-42fbefcaefb5"
+			nation="vietnam" lingual="ENG">
+			<Link>
+				
+				<Url>http://en.dangcongsan.vn/economics.html</Url>
+				<Linktype
+					class="edu.nju.opsource.dangcongsan.linktype.EconomicsList">
+					dangcongsan.economicslist
+				</Linktype>
+			</Link>
+			<describe>
+				economics of en.dangcongsan.vn
+				<br />
+				The Communist Party of Vietnam (CPV) Online Newspaper is an agency of the Party Central Committee Commission of Popularization and Education, raising the voices of the Party, State and people on the Internet, and being an electronic information database of the CPV Central Committee (CPVCC).
+			</describe>
+		</Site>
+		
+		<Site name="dangcongsan_activities" uuid="61636c0c-61cb-4cf5-8aa1-bd36cc1e55bd"
+			nation="vietnam" lingual="ENG">
+			<Link>
+				
+				<Url>http://en.dangcongsan.vn/activities-of-the-party-and-state.html</Url>
+				<Linktype
+					class="edu.nju.opsource.dangcongsan.linktype.ActivitiesList">
+					dangcongsan.activitieslist
+				</Linktype>
+			</Link>
+			<describe>
+				activities of en.dangcongsan.vn
+				<br />
+				The Communist Party of Vietnam (CPV) Online Newspaper is an agency of the Party Central Committee Commission of Popularization and Education, raising the voices of the Party, State and people on the Internet, and being an electronic information database of the CPV Central Committee (CPVCC).
+			</describe>
+		</Site>
+		
+		<Site name="dangcongsan_socialaffairs" uuid="7b990814-2d3e-4f2f-9e44-1a9212e81a31"
+			nation="vietnam" lingual="ENG">
+			<Link>
+				
+				<Url>http://en.dangcongsan.vn/social-affairs.html</Url>
+				<Linktype
+					class="edu.nju.opsource.dangcongsan.linktype.SocialList">
+					dangcongsan.sociallist
+				</Linktype>
+			</Link>
+			<describe>
+				socialaffairs of en.dangcongsan.vn
+				<br />
+				The Communist Party of Vietnam (CPV) Online Newspaper is an agency of the Party Central Committee Commission of Popularization and Education, raising the voices of the Party, State and people on the Internet, and being an electronic information database of the CPV Central Committee (CPVCC).
+			</describe>
+		</Site>
+		
+		<Site name="dangcongsan_culture" uuid="76d47033-6c24-4f73-ab22-f54530e7c263"
+			nation="vietnam" lingual="ENG">
+			<Link>
+				
+				<Url>http://en.dangcongsan.vn/culture.html</Url>
+				<Linktype
+					class="edu.nju.opsource.dangcongsan.linktype.CultureList">
+					dangcongsan.culturelist
+				</Linktype>
+			</Link>
+			<describe>
+				culture of en.dangcongsan.vn
+				<br />
+				The Communist Party of Vietnam (CPV) Online Newspaper is an agency of the Party Central Committee Commission of Popularization and Education, raising the voices of the Party, State and people on the Internet, and being an electronic information database of the CPV Central Committee (CPVCC).
+			</describe>
+		</Site>
+		
+		<Site name="dangcongsan_science" uuid="f30db1e0-cb7b-4258-a674-292aa09c762b"
+			nation="vietnam" lingual="ENG">
+			<Link>
+				
+				<Url>http://en.dangcongsan.vn/science-education.html</Url>
+				<Linktype
+					class="edu.nju.opsource.dangcongsan.linktype.ScienceList">
+					dangcongsan.sciencelist
+				</Linktype>
+			</Link>
+			<describe>
+				science of en.dangcongsan.vn
+				<br />
+				The Communist Party of Vietnam (CPV) Online Newspaper is an agency of the Party Central Committee Commission of Popularization and Education, raising the voices of the Party, State and people on the Internet, and being an electronic information database of the CPV Central Committee (CPVCC).
+			</describe>
+		</Site>
+		
+		<Site name="dangcongsan_foreignaffairs" uuid="845b950c-28c2-47b8-8a88-ac9e800f9827"
+			nation="vietnam" lingual="ENG">
+			<Link>
+				
+				<Url>http://en.dangcongsan.vn/foreign-affairs.html</Url>
+				<Linktype
+					class="edu.nju.opsource.dangcongsan.linktype.ForeignList">
+					dangcongsan.foreignlist
+				</Linktype>
+			</Link>
+			<describe>
+				foreign of en.dangcongsan.vn
+				<br />
+				The Communist Party of Vietnam (CPV) Online Newspaper is an agency of the Party Central Committee Commission of Popularization and Education, raising the voices of the Party, State and people on the Internet, and being an electronic information database of the CPV Central Committee (CPVCC).
+			</describe>
+		</Site>
+		
+		<Site name="dangcongsan_overseas" uuid="c30b9634-7cb2-464b-bdbc-e3059f421e1c"
+			nation="vietnam" lingual="ENG">
+			<Link>
+				
+				<Url>http://en.dangcongsan.vn/overseas-vietnamese.html</Url>
+				<Linktype
+					class="edu.nju.opsource.dangcongsan.linktype.OverseasList">
+					dangcongsan.overseaslist
+				</Linktype>
+			</Link>
+			<describe>
+				overseas of en.dangcongsan.vn
+				<br />
+				The Communist Party of Vietnam (CPV) Online Newspaper is an agency of the Party Central Committee Commission of Popularization and Education, raising the voices of the Party, State and people on the Internet, and being an electronic information database of the CPV Central Committee (CPVCC).
+			</describe>
+		</Site>
+	</Sites>
+</OpenDataSource>

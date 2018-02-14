@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT OpenDataSource(Sites)>
+<!ELEMENT Sites(Site+)>
+<!ELEMENT Site(Link, describe)>
+<!ALLTIST Site uuid ID #REQUIRED >
+<!ALLTIST Site name (#PCDATA)>
+<!ALLTIST Site nation (#PCDATA)>
+<!ALLTIST Site lingual (#PCDATA)>
+<!ELEMENT describe (#PCDATA)>
+<!ELEMENT Link(Linktype ,Url)>
+<!ELEMENT Url (#PCDATA)>
+<!ELEMENT Linktype (#PCDATA)>

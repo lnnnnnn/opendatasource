@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="gb2312"?>
+<OpenDataSource>
+	<Sites>
+		<Site name="philstar_headline" uuid="ea7956c6-30a7-11e6-ac61-9e71128cae77" nation="philippine" lingual="ENG">
+			<Link>
+				<Url>http://www.philstar.com/headlines/archive</Url>
+				<Linktype class="edu.nju.opsource.philstar.linktype.LinkType_HeadLineList">
+					philstar.headlinelist
+				</Linktype>
+			</Link>
+			<describe>
+				HEADLINES of philstar.com<br/>
+				philstar.com is a Philippine news and entertainment portal for the Filipino global community. It is the online presence of the STAR Group of Publications, a leading publisher of newspapers and magazines in the Philippines.
+			</describe>
+		</Site>
+		<Site name="philstar_opinion" uuid="1f85f7a4-33c6-11e6-ac61-9e71128cae77" nation="philippine" lingual="ENG">
+			<Link>
+				<Url>http://www.philstar.com/opinion/columns/archive</Url>
+				<Linktype class="edu.nju.opsource.philstar.linktype.LinkType_OpinionList">
+					philstar.opinionlist
+				</Linktype>
+			</Link>
+			<describe>
+				OPINIONS of philstar.com<br/>
+				philstar.com is a Philippine news and entertainment portal for the Filipino global community. It is the online presence of the STAR Group of Publications, a leading publisher of newspapers and magazines in the Philippines.
+			</describe>
+		</Site>
+		<Site name="philstar_nation" uuid="ca2f0c34-344f-11e6-ac61-9e71128cae77" nation="philippine" lingual="ENG">
+			<Link>
+				<Url>http://www.philstar.com/nation/archive/top-stories</Url>
+				<Linktype class="edu.nju.opsource.philstar.linktype.LinkType_NationList">
+					philstar.nationlist
+				</Linktype>
+			</Link>
+			<describe>
+				Nation of philstar.com<br/>
+				philstar.com is a Philippine news and entertainment portal for the Filipino global community. It is the online presence of the STAR Group of Publications, a leading publisher of newspapers and magazines in the Philippines.
+			</describe>
+		</Site>
+		<Site name="philstar_world" uuid="4c7823fb-77c4-421f-ab42-261c7df7ad08" nation="philippine" lingual="ENG">
+			<Link>
+				<Url>http://www.philstar.com/world/archive</Url>
+				<Linktype class="edu.nju.opsource.philstar.linktype.LinkType_WorldList">
+					philstar.worldlist
+				</Linktype>
+			</Link>
+			<describe>
+				World of philstar.com<br/>
+				philstar.com is a Philippine news and entertainment portal for the Filipino global community. It is the online presence of the STAR Group of Publications, a leading publisher of newspapers and magazines in the Philippines.
+			</describe>
+		</Site>
+		<Site name="philstar_business_columns" uuid="fcfc960d-a3ee-4778-a18a-51a6426d7189" nation="philippine" lingual="ENG">
+			<Link>
+				<Url>http://www.philstar.com/business/columns/archive/business</Url>
+				<Linktype class="edu.nju.opsource.philstar.linktype.LinkType_BusinessColList">
+					philstar.business.columns
+				</Linktype>
+			</Link>
+			<describe>
+				BUSINESS COLUMN of philstar.com<br/>
+				philstar.com is a Philippine news and entertainment portal for the Filipino global community. It is the online presence of the STAR Group of Publications, a leading publisher of newspapers and magazines in the Philippines.
+			</describe>
+		</Site>
+		<Site name="philstar_business" uuid="c3190e28-b989-4ecc-b5a5-7ec8f1afb0c3" nation="philippine" lingual="ENG">
+			<Link>
+				<Url>http://www.philstar.com/business/archive/business</Url>
+				<Linktype class="edu.nju.opsource.philstar.linktype.LinkType_BusinessList">
+					philstar.business
+				</Linktype>
+			</Link>
+			<describe>
+				BUSINESS of philstar.com<br/>
+				philstar.com is a Philippine news and entertainment portal for the Filipino global community. It is the online presence of the STAR Group of Publications, a leading publisher of newspapers and magazines in the Philippines.
+			</describe>
+		</Site>
+		
+		<Site name="msn_en-ph_national" uuid="06f6884c-9fd5-4346-aaa7-3e7316eb7865" nation="philippine" lingual="ENG">
+			<Link>
+				<Url>http://www.msn.com/en-ph/news/national</Url>
+				<Linktype class="edu.nju.opsource.msn.linktype.LinkType_MsnNationalList">
+					msn.en-ph.nationallist
+				</Linktype>
+			</Link>
+			<describe>
+				MSN news of philstar<br/>
+				MSN News Philippines brings you the latest news and happenings from the best of our local partners.
+			</describe>
+		</Site>
+		
+	</Sites>
+</OpenDataSource>

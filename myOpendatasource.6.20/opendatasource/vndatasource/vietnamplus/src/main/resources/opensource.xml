@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDataSource>
+<Sites>
+	 <Site name="vietnamplus_politics" uuid="7fb0d762-5ab7-4434-a2d9-285d0ed26a72"
+		nation="vietnam" lingual="ENG">
+		<Link>
+			<Url>http://en.vietnamplus.vn/politics.vnp</Url>
+			<Linktype class="edu.nju.opsource.vietnamplus.linktype.LinkType_PoliticsList">
+				vietnamplus.politicslist
+			</Linktype>
+		</Link>
+		<describe>
+			politics of en.vietnamplus.vn
+			<br />
+			Vietnam News Agency official website
+		</describe>
+	</Site> 
+    <Site name="vietnamplus_world" uuid="764b7300-16e2-4c72-8e1f-cf485af671c4"
+		nation="vietnam" lingual="ENG">
+		<Link>
+			<Url>http://en.vietnamplus.vn/world.vnp</Url>
+			<Linktype class="edu.nju.opsource.vietnamplus.linktype.LinkType_WorldList">
+				vietnamplus.worldlist
+			</Linktype>
+		</Link>
+		<describe>
+			world of en.vietnamplus.vn
+			<br />
+			Vietnam News Agency official website
+		</describe>
+	</Site>
+	<Site name="vietnamplus_society" uuid="57b0b432-93ea-456e-adda-dc61b4c22c09"
+		nation="vietnam" lingual="ENG">
+		<Link>
+			<Url>http://en.vietnamplus.vn/society.vnp</Url>
+			<Linktype class="edu.nju.opsource.vietnamplus.linktype.LinkType_SocietyList">
+				vietnamplus.societylist
+			</Linktype>
+		</Link>
+		<describe>
+			society of en.vietnamplus.vn
+			<br />
+			Vietnam News Agency official website
+		</describe>
+	</Site>
+	 <Site name="vietnamplus_business" uuid="eda3fda3-261f-4bd9-a989-a676672c2a2e"
+		nation="vietnam" lingual="ENG">
+		<Link>
+			<Url>http://en.vietnamplus.vn/business.vnp</Url>
+			<Linktype class="edu.nju.opsource.vietnamplus.linktype.LinkType_BusinessList">
+				vietnamplus.businesslist
+			</Linktype>
+		</Link>
+		<describe>
+			business of en.vietnamplus.vn
+			<br />
+			Vietnam News Agency official website
+		</describe>
+	</Site>
+	<Site name="vietnamplus_culture" uuid="969d438a-ba8a-49fa-8d1f-6ff663e6fdde"
+		nation="vietnam" lingual="ENG">
+		<Link>
+			<Url>http://en.vietnamplus.vn/culturesports%20 .vnp</Url>
+			<Linktype class="edu.nju.opsource.vietnamplus.linktype.LinkType_CultureList">
+				vietnamplus.culturelist
+			</Linktype>
+		</Link>
+		<describe>
+			culture of en.vietnamplus.vn
+			<br />
+			Vietnam News Agency official website
+		</describe>
+	</Site> 
+</Sites> 
+</OpenDataSource>

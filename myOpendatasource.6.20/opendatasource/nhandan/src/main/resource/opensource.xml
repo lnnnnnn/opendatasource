@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="gb2312"?>
+<OpenDataSource>
+	<Sites>
+		<Site name="nhandan_politics" uuid="053317ed-d6b6-4ccf-bdf8-a4fa106eb626" nation="vietnam" lingual="ENG">
+			<Link>
+				<Url>http://en.nhandan.com.vn/politics</Url>
+				<Linktype class="edu.nju.opsource.nhandan.linktype.LinkType_PoliticsList">
+					nhandan.politicslist
+				</Linktype>
+			</Link>
+			<describe>
+				politics of en.nhandan.com.vn/<br/>
+				Nhan Dan (People) newspaper is the central organ of the Communist Party of Vietnam and the voice of the Party, State and People of Vietnam.
+			</describe>
+		</Site>
+		<!-- <Site name="nhandan_society" uuid="aa5bbfd5-6c37-4eef-ab71-6ccdc7865a70" nation="vietnam" lingual="ENG">
+			<Link>
+				<Url>http://en.nhandan.com.vn/society</Url>
+				<Linktype class="edu.nju.opsource.nhandan.linktype.LinkType_SocietyList">
+					nhandan.societyList
+				</Linktype>
+			</Link>
+			<describe>
+				society of en.nhandan.com.vn/<br/>
+				Nhan Dan (People) newspaper is the central organ of the Communist Party of Vietnam and the voice of the Party, State and People of Vietnam.
+			</describe>
+		</Site>
+		 <Site name="nhandan_world" uuid="355aef8f-6a51-47b8-b70e-7a5cde537095" nation="vietnam" lingual="ENG">
+			<Link>
+				<Url>http://en.nhandan.com.vn/world</Url>
+				<Linktype class="edu.nju.opsource.nhandan.linktype.LinkType_WorldList">
+					nhandan.worldlist
+				</Linktype>
+			</Link>
+			<describe>
+				world of en.nhandan.com.vn/<br/>
+				Nhan Dan (People) newspaper is the central organ of the Communist Party of Vietnam and the voice of the Party, State and People of Vietnam.
+			</describe>
+		</Site>-->
+		<!-- <Site name="nhandan_specialReports" uuid="6f8899a0-8552-4f36-b1dc-55bb3a0a0c2b" nation="vietnam" lingual="ENG">
+			<Link>
+				<Url>http://en.nhandan.com.vn/special_reports</Url>
+				<Linktype class="edu.nju.opsource.nhandan.linktype.LinkType_SpecialReports_Page">
+					nhandan.specialreportspage
+				</Linktype>
+			</Link>
+			<describe>
+				special reports of en.nhandan.com.vn/<br/>
+				Nhan Dan (People) newspaper is the central organ of the Communist Party of Vietnam and the voice of the Party, State and People of Vietnam.
+			</describe>
+		</Site>  -->
+		
+	</Sites>
+</OpenDataSource>

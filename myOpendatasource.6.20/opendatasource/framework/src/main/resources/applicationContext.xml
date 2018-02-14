@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>  
+	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close" >
+	
+		<property name="driverClass"><value>com.mysql.jdbc.Driver</value></property>
+		<property name="jdbcUrl"><value>jdbc:mysql://127.0.0.1:3306/rbpicrawler</value></property>
+		<property name="user"><value>root</value></property>
+		<property name="password"><value>root</value></property>
+		<property name="minPoolSize" value="5" />
+		<property name="maxPoolSize" value="100" />
+		<property name="maxIdleTime" value="180" />
+		<property name="acquireIncrement" value="10" />
+		<property name="maxStatements" value="200" />
+		<property name="initialPoolSize" value="5" />
+		<property name="idleConnectionTestPeriod" value="60" />
+		<property name="acquireRetryAttempts" value="30" />
+		<property name="testConnectionOnCheckout" value="false" />
+	</bean>
+
+</beans>
+
